@@ -1,0 +1,19 @@
+ {
+ "id": "intrinsics-pf2e-survival",
+  "type": "module",
+  "title": "Intrinsic's PF2E Survival",
+  "version": "1.0.0",
+  "description": "Tracks hunger and thirst in PF2E and applies fatigue.",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "IntrinsicSpace"
+    }
+  ],
+  "scripts": ["scripts/survival.js"],
+  "manifest": "https://raw.githubusercontent.com/Chrisrous/Chris-Narratives-Hits/main/module.json",
+  "download": "https://github.com/Chrisrous/Chris-Narratives-Hits/releases/download/v1.0.1/chris-narrative-hits.zip"
+}
